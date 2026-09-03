@@ -1,0 +1,28 @@
+# Java compiled files
+*.class
+
+# Java package files
+*.jar
+*.war
+*.ear
+
+# Build directories
+bin/
+out/
+build/
+target/
+
+# IDE files
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
